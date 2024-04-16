@@ -16,7 +16,7 @@ body, html {
 }
 
 h1 {
-    color: blue;
+    color: red;
     text-align: center;
 }
 
@@ -42,5 +42,5 @@ button {
 #result {
     margin-top: 20px;
     font-size: 18px;
-    color: blue;
+    color: red;
 }
